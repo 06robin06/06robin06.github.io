@@ -1,0 +1,24 @@
+html {
+    background-color: #004680;
+    color: black;
+}
+
+p {
+    front-size: 25px;
+    padding: 25px;
+}
+
+img {
+    border radius:px;
+    width:150px;
+}
+div p {
+    color: black;
+}
+
+button {
+    background-color: rgb(4, 0, 255);
+    color: white;
+    border-radius: 25px;
+}
+
